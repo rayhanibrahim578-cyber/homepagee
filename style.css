@@ -1,0 +1,35 @@
+body {
+    background-color: aqua;
+    font-size: 12px;
+    margin: 0;
+    padding: 20px;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 2px;
+    background-color: blue;
+    padding: 10px 25px;
+    border-radius: 15px;
+}
+
+.identitas h1{
+    background-color: azure;
+    width: 20%;
+    border-radius: 6px;
+}
+.identitas {
+    color: rgb(7, 23, 58);
+    font-size: 20px;
+}
+
+.list h1{
+    font-size: 30px;
+    background-color: azure;
+    width: 12%;
+    border-radius: 6px;
+}
+.list li {
+    color: rgb(16, 16, 82);
+    font-size: 20px;
+}
